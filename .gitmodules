@@ -1,6 +1,1 @@
-[submodule "homebridge-plugin-template"]
-	path = homebridge-plugin-template
-	url = https://github.com/homebridge/homebridge-plugin-template.git
-[submodule "HomeBridgePlugin"]
-	path = HomeBridgePlugin
-	url = https://github.com/homebridge/homebridge-plugin-template.git
+
