@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Arduino Garage Door Button",
+  "name": "homebridge-arduino-garage-door-button",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "This plugin controls an Arduino with a servo to open or close a garage door..",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/IsaacIngram/GarageDoorButton"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/IsaacIngram/GarageDoorButton/issues"
   },
   "engines": {
     "node": ">=10.17.0",
